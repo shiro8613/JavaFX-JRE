@@ -1,2 +1,2 @@
 # JavaFX-JRE
-JavaFXを実行かのなカスタムJRE
+JavaFXを実行可能なカスタムJRE
